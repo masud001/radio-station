@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-#### live Demo
+## live Demo
 
 Please click to see [live demo](https://adoring-mirzakhani-cedfb3.netlify.app/) to your browser.
 
