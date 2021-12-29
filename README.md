@@ -10,6 +10,14 @@ Please click to see [live demo](https://adoring-mirzakhani-cedfb3.netlify.app/) 
 
 In the project directory, you can run:
 
+## Run with Cypress
+
+### `npm run cypress:open`
+
+## `Generate Coverage Report in dev Dependency`
+
+### `npm run cypress:run`
+
 ### `npm start`
 
 Runs the app in the development mode.\
