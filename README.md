@@ -14,9 +14,11 @@ In the project directory, you can run:
 
 ### `npm run cypress:open`
 
-## `Generate Coverage Report in dev Dependency`
+## Generate Coverage Report in dev Dependency:
 
 ### `npm run cypress:run`
+
+## Only for react app :
 
 ### `npm start`
 
